@@ -4,7 +4,9 @@
 
 ## In Action
 
-TBD.
+<p align="center">
+<img src="https://github.com/phyunsj/node-red-contrib-ecolect-example/blob/master/node-red-ecolect-in-action-900.png" width="600px"/>
+</p>
 
 ## Flow 
 
