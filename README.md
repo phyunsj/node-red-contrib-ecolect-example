@@ -20,7 +20,7 @@ Start with [react-native-chat-tutorial](https://github.com/jevakallio/react-nati
 
 ## Nest Thermostat Web Page
 
-Start with [React Nest Thermostat](https://github.com/kevinmellott91/react-nest-thermostat). `nest-thermostat-page/index.js` is the updated version of `example/js/index.js`. 
+Start with [React Nest Thermostat](https://github.com/kevinmellott91/react-nest-thermostat). `nest-thermostat-page/index.js` is the updated version of `https://github.com/kevinmellott91/react-nest-thermostat/example/js/index.js`. 
 
 <p align="center">
 <img src="https://github.com/phyunsj/node-red-contrib-ecolect-example/blob/master/ecolect-thermostat-nest-page.png" width="800px"/>
