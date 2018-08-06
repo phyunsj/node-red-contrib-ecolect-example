@@ -1,6 +1,6 @@
 # Node-RED ecolect example
 
-`node-red-contrib-ecolect` example with React Nest Thermostat + React-Native Chat 
+[`node-red-contrib-ecolect`](https://github.com/DeanCording/node-red-contrib-ecolect) example with React Nest Thermostat + React-Native Chat. The is the extended(modified) version of [Example Ecolect flow for natural language processing](https://flows.nodered.org/flow/5f9072db63e9cf7a68351adf769f1515)
 
 ## In Action
 
@@ -14,7 +14,7 @@ TBD.
 
 ## React-Native iOS Chat 
 
-TBD.
+Start with [react-native-chat-tutorial](https://github.com/jevakallio/react-native-chat-tutorial)
 
 ## Nest Thermostat Web Page
 
