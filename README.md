@@ -26,3 +26,8 @@ Start with [React Nest Thermostat](https://github.com/kevinmellott91/react-nest-
 <p align="center">
 <img src="https://github.com/phyunsj/node-red-contrib-ecolect-example/blob/master/ecolect-thermostat-nest-page.png" width="800px"/>
 </p>
+
+## Consideration 
+
+- Use [state machine node](https://github.com/cflurin/node-red-contrib-dsm) to manage HVAC mode & state. 
+- Use MQTT (over WebSocket) instead.
