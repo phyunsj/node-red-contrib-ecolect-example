@@ -9,7 +9,7 @@ TBD.
 ## Flow 
 
 <p align="center">
-<img src="https://github.com/phyunsj/node-red-contrib-ecolect-example/blob/master/node-red-thermostat.png" width="800px"/>
+<img src="https://github.com/phyunsj/node-red-contrib-ecolect-example/blob/master/ecolect-thermostat-control.png" width="800px"/>
 </p>
 
 ## React-Native iOS Chat 
@@ -18,5 +18,9 @@ Start with [react-native-chat-tutorial](https://github.com/jevakallio/react-nati
 
 ## Nest Thermostat Web Page
 
+
 Start with [React Nest Thermostat](https://github.com/kevinmellott91/react-nest-thermostat)
 
+<p align="center">
+<img src="https://github.com/phyunsj/node-red-contrib-ecolect-example/blob/master/ecolect-thermostat-nest-page.png" width="800px"/>
+</p>
