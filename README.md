@@ -5,7 +5,7 @@
 ## In Action
 
 <p align="center">
-<img src="https://github.com/phyunsj/node-red-contrib-ecolect-example/blob/master/node-red-ecolect-in-action-900.gif" width="600px"/>
+<img src="https://github.com/phyunsj/node-red-contrib-ecolect-example/blob/master/node-red-ecolect-in-action.gif" width="600px"/>
 </p>
 
 ## Flow 
